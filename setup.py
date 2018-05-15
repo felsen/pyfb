@@ -11,7 +11,7 @@ setup(
     author_email = "jmg.utn@gmail.com",
     license = __license__,
     keywords = "Facebook Graph API Wrapper Python",
-    url='http://code.google.com/p/pyfb/',
+    url='www.google.com',
     packages=['pyfb'],
     install_requires=[
         'simplejson',
